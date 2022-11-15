@@ -22,7 +22,7 @@
 
 ### Hi there, I'm <a href="https://t.me/AnimeClubNetwork">Anime Club Network</a> 👋
 (https://t.me/AnimeClubNetwork)
-- Hi there! I'm ANIME CLUB NETWORK, a biology student and self taught programmer from India.
+- Hi there! My ANIME CLUB NETWORK, a biology student and self taught programmer from India.
 - I'm currently learning Python, PHP and web development.
 - Programming is a kind of blessing for me.
 - Apart from programming related stuffs, I love watching anime & reading novels in free time.
